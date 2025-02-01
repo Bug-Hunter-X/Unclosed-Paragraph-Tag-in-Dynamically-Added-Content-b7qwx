@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in HTML involving an unclosed paragraph tag within dynamically added content using JavaScript. The bug leads to unexpected rendering and potential accessibility problems.  The solution demonstrates how to correctly close all tags when manipulating the DOM.
